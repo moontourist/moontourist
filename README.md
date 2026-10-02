@@ -17,15 +17,13 @@ At home I run a homelab server and a desktop I can't stop tuning: tiling window 
 
 #### -[ projects ]-
 
-| **Advent of Code** | **Tools** |
-| ------------------ | --------- |
-| - [sharpmas](https://github.com/moontourist/sharpmas) - Advent of Code tooling in C#: downloads puzzle inputs, runs solutions, checks answers against an independent solver and submits them for stars | - [tascii](https://github.com/moontourist/tascii) - A reminder script that speaks in ASCII art |
+- [tascii](https://github.com/moontourist/tascii) - A reminder script that speaks in ASCII art
 
 #### -[ working on ]-
 
 | **Category**  | **Description** |
 | ------------- | --------------- |
-| **Learning**  | C#, solving Advent of Code puzzles in [sharpmas](https://github.com/moontourist/sharpmas) and picking up a new fundamental with each one. |
+| **Learning**  | C#, solving Advent of Code puzzles and picking up a new fundamental with each one. |
 | **Building**  | Small programs for work: the scripts and tools that turn an afternoon of clicking into a single command. |
 | **Playing**   | A terminal card game in C#, inspired by Balatro. My first step toward building a real game. |
 | **Tinkering** | My homelab and dotfiles, one keybind at a time. |
