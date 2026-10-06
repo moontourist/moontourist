@@ -1,35 +1,29 @@
+```text
+   *         .              +           .
+        .          /\            .
+   +              /  \  /\         MATT ERICKSON
+          .      /    \/  \        Infrastructure Engineer at Halo
+                /          \       Washington state
+   ____________/            \____________________________________
 ```
-   _..._
- .::::. `.        matt erickson
-:::::::.  :       infrastructure engineer, washington state
-::::::::  :
-`::::::' .'
-  `'::'-'
+
+I keep production running at Halo, and write software in C# on the side. I came up through audio engineering, and I'm building toward a game: the one project that needs all of it. Sound, systems, code and an eye for a frame.
+
+Off the clock it's a homelab, a keyboard-driven desktop, and a camera.
+
+### Projects
+
+- **[matt-erickson.io](https://github.com/moontourist/portfolio)**: my site. A live window onto a real Washington peak: real terrain, stars and weather, drawn in ASCII. TypeScript, Vite, Tailwind and DaisyUI.
+- **[tascii](https://github.com/moontourist/tascii)**: a reminder script that speaks in ASCII art.
+- **cardatro**: a terminal card game in C#, inspired by Balatro. Private for now.
+
+### Status
+
+```text
+matt@baker:~$ status --all
+SYSTEM        ■ nominal
+LEARNING      C#, one Advent of Code puzzle at a time
+NEXT DEPLOY   first game
 ```
 
-### Hey!
-
-I'm **Matt**. By day I keep the infrastructure running: the servers, networks and plumbing that everyone else's code depends on. Lately I've been crossing over to the other side and learning to write the software myself.
-
-I'm learning **C#** the hands-on way: one small program at a time, each one built to teach me something I didn't know the week before. Advent of Code is my proving ground, and the end goal is a game of my own.
-
-At home I run a homelab server and a desktop I can't stop tuning: tiling window managers, a keyboard-driven workflow, and Gruvbox on everything that will hold still long enough.
-
-#### -[ projects ]-
-
-- [tascii](https://github.com/moontourist/tascii) - A reminder script that speaks in ASCII art
-
-#### -[ working on ]-
-
-| **Category**  | **Description** |
-| ------------- | --------------- |
-| **Learning**  | C#, solving Advent of Code puzzles and picking up a new fundamental with each one. |
-| **Building**  | Small programs for work: the scripts and tools that turn an afternoon of clicking into a single command. |
-| **Playing**   | A terminal card game in C#, inspired by Balatro. My first step toward building a real game. |
-| **Tinkering** | My homelab and dotfiles, one keybind at a time. |
-
-<div align="right">
-
-**~** _more coming soon_
-
-</div>
+[matt-erickson.io](https://matt-erickson.io) · [LinkedIn](https://www.linkedin.com/in/matthewg-erickson) · [Email](mailto:matthewgaryerickson@gmail.com)
