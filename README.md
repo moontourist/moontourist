@@ -1,4 +1,19 @@
-<img src="header.svg" alt="Matt Erickson, Infrastructure Engineer at Halo, Washington state. Snowy mountains under the stars, drawn in ASCII." width="100%">
+```text
+  *                              .                      .                  .
+    MATT ERICKSON                        ^     +
+    Infrastructure Engineer at Halo     /:\                       *
+    Washington state                   /:.:\
+                                      /:.:.:\          ^               .
+           +                         /       \        /.\             ^
+         ^                          /         \      /.:.\           /.\
+        /.\                        /           \    /     \         /.:.\
+       /   \                      /             \  /       \       /     \
+      /     \                    /               \/         \     /       \
+     /       \                  /                 \          \   /         \
+    /         \                /                   \          \ /           \
+A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A
+______________________________________________________________________________
+```
 
 Hey, I'm Matt. By day I keep things running at Halo. The rest of the time I'm writing code, mostly C# lately.
 
