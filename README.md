@@ -1,4 +1,4 @@
-<img src="header.svg" alt="Matt Erickson, Infrastructure Engineer at Halo, Washington state. A night sky over snowy mountains and a pine forest, drawn in ASCII." width="100%">
+<img src="header.svg" alt="Matt Erickson, Infrastructure Engineer at Halo, Washington state. Snowy mountains under the stars, drawn in ASCII." width="100%">
 
 Hey, I'm Matt. By day I keep things running at Halo. The rest of the time I'm writing code, mostly C# lately.
 
