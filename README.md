@@ -1,18 +1,19 @@
 ```text
-  *                              .                      .                  .
-    MATT ERICKSON                        ^     +
-    Infrastructure Engineer at Halo     /:\                       *
-    Washington state                   /:.:\
-                                      /:.:.:\          ^               .
-           +                         /       \        /.\             ^
-         ^                          /         \      /.:.\           /.\
-        /.\                        /           \    /     \         /.:.\
-       /   \                      /             \  /       \       /     \
-      /     \                    /               \/         \     /       \
-     /       \                  /                 \          \   /         \
-    /         \                /                   \          \ /           \
-A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A^^A^A
-______________________________________________________________________________
+  *                              .                        .            .-.
+    MATT ERICKSON                       ^        +                    (   )
+    Infrastructure Engineer at Halo    /.\                     *       `-'
+    Washington state                  /.:.\
+                        .            /.:.:.\           ^                      .
+            +                       /  . '  \         /.\             ^
+          ^                        /  .  '  '\       /.:.\           /.\
+         /:\                      /  . . '  ' \     /   ' \         /.:.\
+        /  '\                    /  . .        \   /  . '  \       /   ' \
+       / . ' \                  /  . . .        \ /  .  '  '\     /  . '  \
+      / .  '  \                /  . . .          \  . .      \   /  .  '  '\
+     / . .     \              /  . . . .          \. .        \ /  . .      \
+    / ^ .  ^ ^  ^^^  ^ ^ ^^ ^^  ^ . ^ .  ^ ^^^^ ^ ^^. ^  ^ ^  ^\  ^^^ ^   ^  \^
+^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A
+________________________________________________________________________________
 ```
 
 Hey, I'm Matt. By day I keep things running at Halo. The rest of the time I'm writing code, mostly C# lately.
