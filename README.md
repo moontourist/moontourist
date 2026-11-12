@@ -1,22 +1,17 @@
-```text
-   *         .              +           .
-        .          /\            .
-   +              /  \  /\         MATT ERICKSON
-          .      /    \/  \        Infrastructure Engineer at Halo
-                /          \       Washington state
-   ____________/            \____________________________________
-```
+<img src="header.svg" alt="Matt Erickson, Infrastructure Engineer at Halo, Washington state. A night sky over snowy mountains and a pine forest, drawn in ASCII." width="100%">
 
-I keep production running at Halo, and write software in C# on the side. I came up through audio engineering, and I'm building toward a game: the one project that needs all of it. Sound, systems, code and an eye for a frame.
+Hey, I'm Matt. By day I keep things running at Halo. The rest of the time I'm writing code, mostly C# lately.
 
-Off the clock it's a homelab, a keyboard-driven desktop, and a camera.
+I started out in audio engineering and kind of wandered into software. The long-term plan is a game, since it's the one project that gets to use all of it: sound, systems, code, and an eye for a good frame.
+
+Outside of that it's my homelab, a keyboard-driven desktop I can't stop tweaking, and a camera.
 
 ### Projects
 
-- **[matt-erickson.io](https://github.com/moontourist/portfolio)**: my site. A live window onto a real Washington peak: real terrain, stars and weather, drawn in ASCII. TypeScript, Vite, Tailwind and DaisyUI.
-- **[tascii](https://github.com/moontourist/tascii)**: a minimalist to-do list for Chrome's side panel, drawn in ASCII. Lists in tiles, fully keyboard driven, and nothing leaves your browser. Plain JavaScript, about 13 KB. Live demo at [tascii-list.com](https://tascii-list.com).
-- **[dinner-wheel](https://github.com/moontourist/dinner-wheel)**: spin a 3D lazy susan for tonight's dinner, plan the week, and generate recipes from your pantry.
-- **cardatro**: a terminal card game in C#, inspired by Balatro. Private for now.
+- **[matt-erickson.io](https://github.com/moontourist/portfolio)**: my site. A live view of a real Washington peak, with real terrain, stars and weather, all drawn in ASCII.
+- **[tascii](https://github.com/moontourist/tascii)**: a tiny to-do list that lives in Chrome's side panel. ASCII everything, all keyboard, and your tasks never leave your browser. Try it at [tascii-list.com](https://tascii-list.com).
+- **[dinner-wheel](https://github.com/moontourist/dinner-wheel)**: can't decide what's for dinner? Spin a 3D lazy susan. It'll also plan your week and come up with recipes from whatever's in your pantry.
+- **cardatro**: Balatro in the terminal, for when you want to look like you're working. Private for now.
 
 ### Status
 
