@@ -1,18 +1,10 @@
 ```text
-  *                          .              +                      .     .-.
-  MATT ERICKSON                                          .              (   )
-  Infrastructure Engineer at Halo    _.--'''--._                         `-'
-  Washington state                .-'           '-.             *
-                      .         .'      .          '.
-                              .'             .       '.      /\                .
-            +               .'      .                  '-./\/  \/\
-                         _.'                     .       /  : : : \
-                      _.'      .          .             /: : : : : '.
-                 __.-'    .          .         .       / : : : : : : '-._
- ^  ^   ^  __.-'  ^   ^  ^   ^  ^   ^  ^   ^  ^   ^  ^   ^  ^   ^  ^   ^ '-.._^
-^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A^A
--~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~~-~
-~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+   *         .              +           .
+        .          /\            .
+   +              /  \  /\         MATT ERICKSON
+          .      /    \/  \        Infrastructure Engineer at Halo
+                /          \       Washington state
+   ____________/            \____________________________________
 ```
 
 Hey, I'm Matt. By day I keep things running at Halo. The rest of the time I'm writing code, mostly C# lately.
